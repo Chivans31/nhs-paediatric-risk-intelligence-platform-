@@ -48,7 +48,7 @@ mlruns/
 # Model Artifacts
 ####################################
 
-*.pkl
+#*.pkl
 *.joblib
 *.model
 *.h5
