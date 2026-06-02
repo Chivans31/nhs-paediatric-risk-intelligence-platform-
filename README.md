@@ -46,14 +46,14 @@ https://nhs-paediatric-risk-intelligence-platform.onrender.com
 
 ## Power BI Executive Dashboard
 
-![KPIs](screenshots/KPIs.png)
-![Operational Intelligence](screenshots/Operational%20Intelligence.png)
+![KPIs](screenshots/KPIs.PNG)
+![Operational Intelligence](screenshots/Operational%20Intelligence.PNG)
 
 ---
 
 ## FastAPI Swagger Documentation
 
-![Swagger](screenshots/backend.png)
+![Swagger](screenshots/backend.PNG)
 
 
 # 🎯 Business Problem
