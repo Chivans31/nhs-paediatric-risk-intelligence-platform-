@@ -30,22 +30,26 @@ https://nhs-paediatric-risk-intelligence-platform.onrender.com
 
 ![Frontend Page 1](screenshots/frontend0.png)
 
+---
 
 ## Prediction Results
 
 ![Prediction](screenshots/frontend1.png)
 
+---
 
 ## SHAP Explainability Dashboard
 
 ![SHAP](screenshots/frontend2.png)
 
+---
 
 ## Power BI Executive Dashboard
 
 ![KPIs](screenshots/KPIs.png)
-![Operationsl Intelligence](screenshots/Operational Intelligence.png)
+![Operational Intelligence](screenshots/Operational%20Intelligence.png)
 
+---
 
 ## FastAPI Swagger Documentation
 
